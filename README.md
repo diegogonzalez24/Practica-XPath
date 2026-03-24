@@ -5,7 +5,7 @@ Este repositorio contiene la auditoría técnica realizada sobre el catálogo de
 ## Archivos del Proyecto
 
 * `CatalogoCloud.xml`: Base de datos de la infraestructura en formato XML.
-* `auditoria_[TUS_APELLIDOS]_[TU_NOMBRE].xbook`: Notebook de VS Code con las misiones de auditoría y las consultas XPath ejecutadas.
+* `auditoria_Gonzalez_Penha_Diego.xbook`: Notebook de VS Code con las misiones de auditoría y las consultas XPath ejecutadas.
 
 ## Misiones de Auditoría
 
